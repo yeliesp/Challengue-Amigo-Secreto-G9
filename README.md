@@ -1,4 +1,6 @@
-O Amigo Secreto é uma aplicação que permite aos usuários adicionar nomes de amigos em uma lista e realizar um sorteio aleatório para descobrir quem será o amigo secreto.
+O Amigo Secreto 
+
+é uma aplicação que permite aos usuários adicionar nomes de amigos em uma lista e realizar um sorteio aleatório para descobrir quem será o amigo secreto.
 Perfeito para organizar brincadeiras em família, entre amigos ou no trabalho!
 
 
@@ -25,9 +27,9 @@ Final: Cuando no quedan amigos, aparece mensaje de finalización
 
 🛠️ Tecnologias Utilizadas:
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+HTML5: Estrutura da página
+
+CSS3: Estilização e layout
+
+JavaScript: Lógica da aplicação e interatividade
           
